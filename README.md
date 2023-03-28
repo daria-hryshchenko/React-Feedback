@@ -2,7 +2,7 @@
 
 ⚡ Clear Code
 
-⚡ Search Field/Deleting and Adding Contacts
+⚡ Adding and Deleting Reviews / Calculation of Statistics
 
 ⚡ Used NanoID, PropTypes
 
